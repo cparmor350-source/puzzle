@@ -5,12 +5,14 @@ h1{
     background-color: rgb(28, 19, 200);
     width: 300px;
     height: 300px;
+    
 }
 
 .primera {
-    background-color: rgb(139, 122, 92);
+    background-color: rgb(22, 125, 185);
     width: 100px;
     height: 50px;
+    position: absolute;
 }
 
 .segunda {
@@ -18,12 +20,15 @@ h1{
     background-color: chocolate;
     width: 100px;
     height: 50px;
+    position: absolute;
+    margin-left: 100px;
 }
 
 .tercera {
     background-color: aqua;
     width: 100px;
     height: 50px;
+    margin-left: 200px;
 }
 
 .cuarta {
@@ -31,13 +36,136 @@ h1{
 background-color: black;
 width: 100px;
 height: 50px;
+position: absolute;
 
 }
 
 .quinta {
 
-background-color:chartreuse
+    background-color: chartreuse;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    margin-left: 100px;
+    
+}
+.sexta {
 
+background-color: rgb(32, 67, 67);
+width: 100px;
 height: 50px;
+margin-left: 200px;
+}
+
+.septima {
+
+    background-color: rgb(139, 122, 92);
+    width: 100px;
+    height: 50px;
+    position: absolute;
+}
+
+.octava {
+
+background-color: rgb(194, 188, 178);
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
+    position: absolute;
 
 }
+
+.novena {
+
+background-color: rgb(255, 165, 10);
+    width: 100px;
+    height: 50px;
+    margin-left: 100px;
+
+
+}
+
+.decima {
+
+background-color: rgb(232, 0, 213);
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    
+
+}
+
+.undecima {
+
+background-color: rgb(236, 9, 9);
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    margin-left: 100px
+
+}
+
+.duodecima {
+
+background-color: rgb(5, 206, 228);
+    width: 100px;
+    height: 50px;
+    margin-left: 200px
+
+}
+
+.trigesima {
+
+background-color: rgba(54, 76, 55, 0.36);
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    
+}
+
+.decimocuarto {
+
+background-color: rgb(172, 117, 22);
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    margin-left: 100px
+
+}
+
+.decimoquinto {
+
+background-color: rgb(255, 165, 10);
+    width: 100px;
+    height: 50px;
+    margin-left: 200px
+
+}
+
+.decimosexto{
+
+    background-color: rgb(147, 27, 27);
+    width: 100px;
+    height: 50px;
+    position: absolute;
+}
+
+.decimoseptimo {
+
+    background-color: rgb(183, 15, 221);
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    margin-left: 100px
+}
+
+.decimooctavo {
+
+background-color: rgb(22, 172, 132);
+    width: 100px;
+    height: 50px;
+    margin-left: 200px
+
+}
+
+    
